@@ -21,9 +21,4 @@ class ViewController: UIViewController {
     }
 
 }
-
-2jgasjdg
-askdjhakjsd
-
-asdaw
-
+ 
