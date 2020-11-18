@@ -21,4 +21,7 @@ class ViewController: UIViewController {
     }
 
 }
- 
+ asjgjsdgsd
+dsjfhsdjf
+host_set_atm_diagnostic_flag(<#T##host: host_t##host_t#>, <#T##diagnostic_flag: UInt32##UInt32#>)
+
